@@ -1,2 +1,12 @@
 # EE6108-CA1-project
-EE6108 CA1，把例程和项目存在这个库里，方便大家统一进度
+group 6 member:
+
+Wu Yuhua
+
+Yuan Xinyi
+
+Liu Xinyu
+
+Su Zhenyao
+
+Wu Ziyi
